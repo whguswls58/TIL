@@ -1,0 +1,24 @@
+### 그리스 문자
+|대문자|소문자|영어표기|한글표기|
+|-----|-----|-----|-----|
+|$\Alpha$|$\alpha$|alpha|알파|
+|$\Beta$|$\beta$|beta|베타|
+|$\Gamma$|$\gamma$|gamma|감마|
+|$\Delta$|$\delta$|delta|델타|
+|$\Epsilon$|$\epsilon$|epsilon|엡실론|
+|$\Zeta$|$\zeta$|zeta|제타|
+|$\Eta$|$\eta$|eta|에타|
+|$\Theta$|$\theta$|theta|쎄타|
+|$\Kappa$|$\kappa$|kappa|카파|
+|$\lambda$|$\lambda$|lambda|람다|
+|$\Mu$|$\mu$|mu|뮤|
+|$\Nu$|$\nu$|nu|누|
+|$\Xi$|$\xi$|xi|크싸이|
+|$\Pi$|$\pi$|pi|파이|
+|$\Rho$|$\rho$|rho|로|
+|$\Sigma$|$\sigma$|sigma|시그마|
+|$\Tau$|$\tau$|tau|타우|
+|$\Phi$|$\phi$|phi|파이/피|
+|$\Chi$|$\chi$|chi|카이|
+|$\Psi$|$\psi$|psi|프사이|
+|$\Omega$|$\omega$|omega|오메가|
